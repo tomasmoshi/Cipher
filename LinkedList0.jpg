@@ -1,0 +1,20 @@
+1. Enter key: toy
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+T O Y A B C D E F G H I J K L M N P Q R S U V W X Z 
+2. Enter word to encrypt: hello
+CharPos is : 7
+CharPos is : 4
+CharPos is : 11
+CharPos is : 11
+CharPos is : 14
+Encrypted word is EBIIL
+3. decrypt word is
+CharPos is: 10
+CharPos is: 7
+CharPos is: 14
+CharPos is: 14
+CharPos is: 1
+decrypted message is HELLO
+Enter Y for yes or N for no to try another word: 
+y
+1. Enter key: 
